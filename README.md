@@ -19,4 +19,4 @@ Para ejecutar y probar los ejemplos de este curso, no es necesario descargar ni 
 5. Pega el código en la sección central y haz clic en el botón verde **Run** para ejecutar la aplicación.
 
 ---
-**[HAZ CLIC AQUÍ PARA VER LOS ARTEFACTOS, GUIONES Y VIDEOS DEL CURSO](ARTEFACTOS.md)**
+**[HAZ CLIC AQUÍ PARA VER LOS ARTEFACTOS Y VIDEOS DEL CURSO](ARTEFACTOS.md)**
