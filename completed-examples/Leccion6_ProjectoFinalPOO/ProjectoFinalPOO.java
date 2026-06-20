@@ -1,7 +1,6 @@
 import java.util.Scanner; 
 
 //1. MOLDE(clase estudiante)
-
 class Estudiante {
     //Encapsulamiento : protegemos los datos de la clase con 'private'
     private String nombre;
