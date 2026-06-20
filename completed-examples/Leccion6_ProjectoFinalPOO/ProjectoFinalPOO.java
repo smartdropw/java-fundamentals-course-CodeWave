@@ -11,9 +11,6 @@ class Estudiante {
     public Estudiante(String nombre, int nivel) {
         this.nombre = nombre;
         this.nivel = nivel;
-        this.vida = vida;
-        this.daño = daño;
-        this.inteligencia = inteligencia;
     }
     
     // Getters: para leer los datos sin modificarlos
