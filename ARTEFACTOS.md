@@ -46,7 +46,7 @@ Este curso introductorio está diseñado específicamente para estudiantes de se
 
 ### Lección 6: Proyecto Final - Registro de Estudiantes con POO (~ minutos)
 - **Descripción**: Integra todos los conceptos del curso en una aplicación real, aplicando encapsulación y solucionando errores comunes.
-- **Enlace**: [Ver la lección]([https://youtu.be/Cr0URZb0YHw])
+- **Enlace**: [Ver la lección](https://youtu.be/Cr0URZb0YHw)
 - **Conclusiones clave**: Encapsulación con atributos `private` y `getters`. Uso de arreglos para almacenar objetos y control de excepciones.
 - **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/) 
 
